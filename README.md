@@ -2,11 +2,11 @@
 Repositorio para subir las tareas del tercer semestre del equipo Debugging Demons.
 Profesor Ariel Betancud.
 
-Integrantes:
-[SebasGalvan](https://github.com/SebasGalvan)
-[Aguppesce](https://github.com/Aguppesce)
-[BraianTroncoso](https://github.com/BraianTroncoso)
-[SantSRJ](https://github.com/SantSRJ)
-[TanitoCode](https://github.com/TanitoCode)
-[Marianoleonardofarias](https://github.com/Marianoleonardofarias)
-[francogenre](https://github.com/francogenre)
+Integrantes:<br>
+[SebasGalvan](https://github.com/SebasGalvan)<br>
+[Aguppesce](https://github.com/Aguppesce)<br>
+[BraianTroncoso](https://github.com/BraianTroncoso)<br>
+[SantSRJ](https://github.com/SantSRJ)<br>
+[TanitoCode](https://github.com/TanitoCode)<br>
+[Marianoleonardofarias](https://github.com/Marianoleonardofarias)<br>
+[francogenre](https://github.com/francogenre)<br>
