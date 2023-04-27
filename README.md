@@ -4,13 +4,14 @@
 <h3>Profesor Ariel Betancud.</h3>
 
 __Integrantes:__<br>
-[SebasGalvan](https://github.com/SebasGalvan)<br>
-[Aguppesce](https://github.com/Aguppesce)<br>
-[BraianTroncoso](https://github.com/BraianTroncoso)<br>
-[SantSRJ](https://github.com/SantSRJ)<br>
-[TanitoCode](https://github.com/TanitoCode)<br>
-[Marianoleonardofarias](https://github.com/Marianoleonardofarias)<br>
-[francogenre](https://github.com/francogenre)<br>
+
+- [Mariano Farias](https://github.com/Marianoleonardofarias)
+- [Agustín Pérez Pesce](https://github.com/Aguppesce)
+- [Braian Troncoso](https://github.com/BraianTroncoso)
+- [Franco Sebastián Genre](https://github.com/francogenre)
+- [Mario Cristian Sanchez](https://github.com/TanitoCode)
+- [Santiago Mendoza](https://github.com/SantSR)
+- [Sebastián Galván](https://github.com/SebasGalvan)
 
 
 -------------------------------------------------------------------------------------------------------------------------------
