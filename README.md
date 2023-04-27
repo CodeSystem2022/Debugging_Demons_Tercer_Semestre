@@ -1,8 +1,8 @@
-# Debugging_Demons_Tercer_Semestre
+**Debugging Demons** (Tercer Semestre)
 Repositorio para subir las tareas del tercer semestre del equipo Debugging Demons.
 Profesor Ariel Betancud.
 
-Integrantes:<br>
+__Integrantes:__<br>
 [SebasGalvan](https://github.com/SebasGalvan)<br>
 [Aguppesce](https://github.com/Aguppesce)<br>
 [BraianTroncoso](https://github.com/BraianTroncoso)<br>
