@@ -1,5 +1,5 @@
-**Debugging Demons** (Tercer Semestre)
-Repositorio para subir las tareas del tercer semestre del equipo Debugging Demons.
+#**Debugging Demons** (Tercer Semestre)<br>
+Repositorio para subir las tareas del tercer semestre del equipo Debugging Demons.<br>
 Profesor Ariel Betancud.
 
 __Integrantes:__<br>
