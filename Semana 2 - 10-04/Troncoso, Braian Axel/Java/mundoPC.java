@@ -1,39 +1,42 @@
-package mundoPc;
+package mundoPC;
 
 import ar.com.system2023.mundopc.*;
 
-public class mundoPc {
+
+public class mundoPC {
     public static void main(String[] args) {
-        Monitor monitorHP = new Monitor("HP", 13); //Importar clase
-        Teclado tecladoHP = new Teclado("Bluetooth", "HP");
-        Raton ratonHP = new Raton("Bluetooth", "HP");
-        Computadora computadoraHP = new Computadora("Computadora HP", monitorHP, tecladoHP, ratonHP);
-        
-        //Creamos otros objetos de diferente marca
-        Monitor monitorGamer = new Monitor("Gamer", 32);
-        Teclado tecladoGamer = new Teclado("Bluetooth", "Gamer");
-        Raton ratonGamer = new Raton("Bluetooth", "Gamer");
-        Computadora computadoraGamer = new Computadora("Computadora Gamer", monitorGamer, tecladoGamer, ratonGamer);
-       
-        Orden orden1 =  new Orden(); //Inicializamos el arreglo vacio
-      //Orden orden2 = new Orden(); //Una nueva lista para el objeto orden
-     // orden1.agregarComputadora(computadoraHP);
-     // orden1.agregarComputadora(computadoraGamer);
-        
-        Computadora computadorasVarias = new Computadora ("Computadora de diferentes marcas", monitorHP, tecladoGamer, ratonHP);
-       /*
-        orden2.agregarComputadora(computadorasVarias);
-        
+        Monitor monitorHP = new Monitor("HP",13); //Importar la clase
+        Teclado tecladoHP = new Teclado("Bluetooth","HP");
+        Raton   ratonHP = new Raton("Bluetooh","HP");
+        Computadora computadoraHP = new Computadora("Computadora HP",monitorHP, tecladoHP, ratonHP);
+
+
+        //Creamos otros objetos de diferente marcas
+        Monitor monitorGamer = new Monitor("Gamer",32);
+        Teclado tecladoGamer = new Teclado("Bluetooth","Gamer");
+        Raton   ratonGamer = new Raton("Bluetooh","Gamer");
+        Computadora computadoraGamer = new Computadora("Computadora Gamer",monitorGamer, tecladoGamer, ratonGamer);
+
+    //    Orden orden2 = new Orden(); //Una nueva lista para el objeto orden 2
+        Orden orden1 = new Orden(); //Inicializamos el arreglo vacio
+    //    orden1.agregarComputadoras(computadoraHP);
+    //    orden1.agregarComputadoras(computadoraGamer);
+
+        Computadora computadorasVarias = new Computadora("Computadora de diferentes marcas: ", monitorHP, tecladoGamer, ratonHP);
+    /*    orden2.agregarComputadoras(computadorasVarias);
+
         orden1.mostrarOrden();
         orden2.mostrarOrden();
-        */
-        //Crear mas objetos  de tipo  computadora con todos sus elementos 
-        //Completar una lista  en el objeto orden1 uqe llegue  a los 10 elementos
-        //probar  de esta manera  los metodos al maximo rendimiento
-        
-//Creacion de computadoras
-        
-//Pc marca LG
+*/
+        //Crear mas objetos de tipo computadora con todos sus elementos
+        //Completar una lista en el objeto orden1 que llege a los 10 elementos
+        //Probar de esta manera los métodos al máximo rendimiento
+
+        //Tarea realizada:
+
+        //Creación de computadoras
+
+        //Pc marca LG
         Monitor monitorLG = new Monitor("LG",32);
         Teclado tecladoLG = new Teclado("USB","LG");
         Raton   ratonLG = new Raton("USB","LG");
@@ -94,19 +97,17 @@ public class mundoPc {
         Computadora computadoraAlienware = new Computadora("Computadora Alienware",monitorAlienware, tecladoAlienware, ratonAlienware);
 
         //Cargamos total de computadoras
-        orden1.agregarComputadora(computadoraAlienware);
-        orden1.agregarComputadora(computadoraSamsung);
-        orden1.agregarComputadora(computadoraAcer);
-        orden1.agregarComputadora(computadoraAPPLE);
-        orden1.agregarComputadora(computadoraLG);
-        orden1.agregarComputadora(computadoraMSI);
-        orden1.agregarComputadora(computadoraLenovo);
-        orden1.agregarComputadora(computadoraAsus);
-        orden1.agregarComputadora(computadoraHP);
-        orden1.agregarComputadora(computadoraRazer);
-        orden1.agregarComputadora(computadorasVarias);
-        orden1.agregarComputadora(computadoraDell);
+        orden1.agregarComputadoras(computadoraAlienware);
+        orden1.agregarComputadoras(computadoraAcer);
+        orden1.agregarComputadoras(computadoraAPPLE);
+        orden1.agregarComputadoras(computadoraLG);
+        orden1.agregarComputadoras(computadoraMSI);
+        orden1.agregarComputadoras(computadoraLenovo);
+        orden1.agregarComputadoras(computadoraAsus);
+        orden1.agregarComputadoras(computadoraHP);
+        orden1.agregarComputadoras(computadoraGamer);
+        orden1.agregarComputadoras(computadorasVarias);
+        orden1.agregarComputadoras(computadoraDell);
         orden1.mostrarOrden();
     }
-    
 }
