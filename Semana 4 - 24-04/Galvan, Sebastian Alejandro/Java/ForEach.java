@@ -19,5 +19,3 @@ public class ForEach {
         }
     }
 }
-
-//Video 2
