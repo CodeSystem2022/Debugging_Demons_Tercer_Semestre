@@ -1,4 +1,4 @@
-<h1>Debugging Demons (Tercer Semestre)</h1>
+<h1>Debugging Demons (Tercer Semestre) <img style="width:50px; height:50px"  src="https://github.com/DebuggingDemons/Integrador_Tercer_Semestre/assets/95662710/217856f6-cd74-4ac3-b7d0-172887ab5d49" ></h1>
 
 <h2>Repositorio para subir las tareas del tercer semestre del equipo Debugging Demons.</h2>
 <h3>Profesor Ariel Betancud.</h3>
