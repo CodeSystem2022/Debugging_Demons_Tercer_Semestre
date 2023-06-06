@@ -1,4 +1,4 @@
-// ===============CLASE 04 - MIERCOLES-03/05/2023===============  
+// ===============CLASE 04 - MIERCOLES-03/05/2023===============
 package domain;
 
 public class Empleado {
