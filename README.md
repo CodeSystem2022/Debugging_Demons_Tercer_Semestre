@@ -28,3 +28,9 @@ __Integrantes:__<br>
 | Semana 8  | 22/05 |Agustin P. Pesce |
 | Semana 9  | 29/05 |Cristian Sanchez |
 | Semana 10 | 05/06 |Braian Troncoso |
+| Semana 11 | 12/06 |Sebastian Galván |
+| Semana 12 | 19/06 |Mariano Farias |
+| Semana 13 | 26/06 |Franco Genre |
+| Semana 14 | 03/07 |Santiago Mendoza |
+| Semana 15 | 10/07 |Agustin P. Pesce |
+
