@@ -1,0 +1,70 @@
+11:41:28 PM:ERROR [conexion.py:29] Ocurrió un error: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+11:43:00 PM:ERROR [conexion.py:29] Ocurrió un error: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+11:43:27 PM:ERROR [conexion.py:29] Ocurrió un error: connection to server at "127.0.0.1", port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+11:44:06 PM:ERROR [conexion.py:29] Ocurrió un error: connection to server at "127.0.0.1", port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+11:45:08 PM:ERROR [conexion.py:29] Ocurrió un error: 
+11:45:18 PM:ERROR [conexion.py:29] Ocurrió un error: 
+11:46:21 PM:DEBUG [conexion.py:26] Conexion Exitosa : <connection object at 0x000001F04E2A1690; dsn: 'user=postgres password=xxx dbname=postgres host=localhost port=5433', closed: 0>
+11:46:21 PM:ERROR [conexion.py:42] Ocurrió un eror: module 'logging' has no attribute 'degug'
+11:46:27 PM:DEBUG [conexion.py:26] Conexion Exitosa : <connection object at 0x0000016BEDC91690; dsn: 'user=postgres password=xxx dbname=postgres host=localhost port=5433', closed: 0>
+11:46:27 PM:ERROR [conexion.py:42] Ocurrió un eror: module 'logging' has no attribute 'degug'
+11:46:58 PM:DEBUG [conexion.py:26] Conexion Exitosa : <connection object at 0x0000027E644D1690; dsn: 'user=postgres password=xxx dbname=postgres host=localhost port=5433', closed: 0>
+11:46:58 PM:DEBUG [conexion.py:39] Se abrio correctamente el cursor. <cursor object at 0x0000027E644B58C0; closed: 0>
+11:47:05 PM:DEBUG [conexion.py:26] Conexion Exitosa : <connection object at 0x0000017967A91690; dsn: 'user=postgres password=xxx dbname=postgres host=localhost port=5433', closed: 0>
+11:47:05 PM:DEBUG [conexion.py:39] Se abrio correctamente el cursor. <cursor object at 0x0000017967A75EE0; closed: 0>
+11:47:46 PM:DEBUG [conexion.py:26] Conexion Exitosa : <connection object at 0x0000017A66A91690; dsn: 'user=postgres password=xxx dbname=postgres host=localhost port=5433', closed: 0>
+11:47:46 PM:DEBUG [conexion.py:39] Se abrio correctamente el cursor. <cursor object at 0x0000017A66A75EE0; closed: 0>
+11:48:24 PM:DEBUG [conexion.py:26] Conexion Exitosa : <connection object at 0x000002B398C99690; dsn: 'user=postgres password=xxx dbname=postgres host=localhost port=5433', closed: 0>
+11:48:24 PM:DEBUG [conexion.py:39] Se abrio correctamente el cursor. <cursor object at 0x000002B398C75EE0; closed: 0>
+11:49:03 PM:DEBUG [conexion.py:26] Conexion Exitosa : <connection object at 0x0000025C608D1690; dsn: 'user=postgres password=xxx dbname=postgres host=localhost port=5433', closed: 0>
+11:49:03 PM:DEBUG [conexion.py:39] Se abrio correctamente el cursor. <cursor object at 0x0000025C608B5EE0; closed: 0>
+11:49:44 PM:DEBUG [conexion.py:26] Conexion Exitosa : <connection object at 0x0000029AFFC99690; dsn: 'user=postgres password=xxx dbname=postgres host=localhost port=5433', closed: 0>
+11:49:44 PM:DEBUG [conexion.py:39] Se abrio correctamente el cursor. <cursor object at 0x0000029AFFC75EE0; closed: 0>
+11:49:44 PM:DEBUG [persona_dao.py:38] 
+            Id Persona: 1
+            Nombre: Julia
+            Apellido: Nuñes
+            Email: jnuñez@gmail.com
+        
+11:49:44 PM:DEBUG [persona_dao.py:38] 
+            Id Persona: 4
+            Nombre: Pedro
+            Apellido: Velazques
+            Email: pvela@mail.com
+        
+11:49:44 PM:DEBUG [persona_dao.py:38] 
+            Id Persona: 6
+            Nombre: Mateo
+            Apellido: Lima
+            Email: mlima@mail.com
+        
+11:49:44 PM:DEBUG [persona_dao.py:38] 
+            Id Persona: 12
+            Nombre: Maria
+            Apellido: Lopez
+            Email: mlopez@gmail.com
+        
+11:49:44 PM:DEBUG [persona_dao.py:38] 
+            Id Persona: 22
+            Nombre: Jeronimo
+            Apellido: Larroque
+            Email: jlarroque@gmail.com
+        
+11:49:44 PM:DEBUG [persona_dao.py:38] 
+            Id Persona: 23
+            Nombre: Pedro
+            Apellido: Ibanoff
+            Email: pedroiv@gmail.com
+        
