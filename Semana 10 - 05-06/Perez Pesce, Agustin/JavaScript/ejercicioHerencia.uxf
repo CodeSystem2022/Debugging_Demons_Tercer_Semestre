@@ -1,0 +1,36 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>270</x><y>20</y><w>210</w><h>240</h></coordinates><panel_attributes>&lt;&lt;Persona&gt;&gt;
+--
+_idPersona: number
+_nombre: string
+_apellido: string
+_edad: number
+contadorPersonas
+--
+getIdPersona(): number
+getNombre(): string
+setNombre(string)
+getApellido(): string
+setApellido(string)
+getEdad(): number
+setEdad(string)
+toString()</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>140</x><y>360</y><w>210</w><h>140</h></coordinates><panel_attributes>&lt;&lt;Empleado&gt;&gt;
+--
+_idEmpleado: Long
+_sueldo: number
+--
+getIdEmpleado(): number
+getSueldo(): number
+setSueldo(number)
+toString()
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>370</x><y>250</y><w>30</w><h>90</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;70</additional_attributes></element><element><id>Relation</id><coordinates><x>370</x><y>300</y><w>160</w><h>40</h></coordinates><panel_attributes>lt=-
+&lt;&lt;Extends&gt;&gt;</panel_attributes><additional_attributes>10;20;140;20</additional_attributes></element><element><id>Relation</id><coordinates><x>250</x><y>300</y><w>150</w><h>40</h></coordinates><panel_attributes>lt=-
+&lt;&lt;Extends&gt;&gt;</panel_attributes><additional_attributes>10;20;130;20</additional_attributes></element><element><id>Relation</id><coordinates><x>250</x><y>310</y><w>30</w><h>70</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;10;50</additional_attributes></element><element><id>Relation</id><coordinates><x>500</x><y>310</y><w>30</w><h>70</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;10;50</additional_attributes></element><element><id>UMLClass</id><coordinates><x>410</x><y>360</y><w>210</w><h>140</h></coordinates><panel_attributes>&lt;&lt;Cliente&gt;&gt;
+--
+_idCliente: number
+_fechaRegistro: Date
+--
+getIdCliente
+getFechaRegistro(): Date
+setFechaRegistro(Date)
+toString()
+</panel_attributes><additional_attributes></additional_attributes></element></diagram>
